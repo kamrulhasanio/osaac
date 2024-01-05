@@ -58,10 +58,7 @@ a:hover {
     text-decoration: underline;
 }
 
-a[target="_blank"]::after {
-    content: "\2022";
-    margin-left: 5px;
-}
+
 
 ul li {
     display: inline-block;

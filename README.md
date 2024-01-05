@@ -1,4 +1,4 @@
-# 🚀 My Open Source Android Apps Repository
+# 🚀Open Source Android Apps Repository
 
 Welcome to my curated collection of open-source Android apps! 📱 This repository is a treasure trove of apps I use and recommend. Dive in and supercharge your Android experience!
 

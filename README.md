@@ -11,7 +11,7 @@
 ---
 
 <h2>VISIT SITE</h2>
-<a href="https://osaar.kamrulhasan.co">
+<a href="https://osaac.kamrulhasan.co">
   <img width="30" height="30" src="IMG/link.png" alt="Link for OSAAC" height="80"> 
   <span>Visit the site to explore the Open Source Android App Collections.</span>
 </a>

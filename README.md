@@ -31,5 +31,5 @@ To contribute or provide feedback:
 
 A big thank you for being part of the Open Source Android Apps Repository's growth. Together, let's craft a resource that transforms the Android experience for everyone!
 
-## Credits 🙌
+## Credits 
 Hats off to all the open-source developers! Your relentless dedication has birthed phenomenal Android apps, enriching our digital realm. Kudos to the entire open-source community for driving innovation and accessibility.

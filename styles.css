@@ -2,14 +2,15 @@ body {
     margin: 0;
     padding: 0;
     font-family: Fira Code, sans-serif;
-    background-color: #0f172a;
-    color: white;
+    background-color: #070b14;
+    color: #ffffff;
 }
+
 
 .hero {
     text-align: center;
     padding: 50px;
-    background-color: #182234;
+    border-bottom: 1px solid white;
 }
 
 .hero-title {
@@ -30,7 +31,7 @@ body {
 
 .box {
     width: 300px;
-    background-color: #182234;
+    background-color: #070b14;
     border: 0.5px solid white;
     border-radius: 10px;
     margin: 3px;
@@ -72,6 +73,14 @@ body {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #182234;
     border-top: 1px solid white;
+}
+
+.white-link {
+    color: #0284c7;
+    text-decoration: none;
+}
+
+.white-link:hover {
+    color: white;
 }
